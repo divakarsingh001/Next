@@ -25,3 +25,13 @@ body {
     text-wrap: balance;
   }
 }
+
+.mainhead{
+  font-size: 80px;
+  width: 60%;
+  font-family: 'Poppins';
+}
+.maincon{
+  width: 60%;
+  font-family: 'Poppins';
+}
